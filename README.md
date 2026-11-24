@@ -8,3 +8,5 @@
 
 ```bash
 python app.py
+
+Контрольная строка для проверки git pull
